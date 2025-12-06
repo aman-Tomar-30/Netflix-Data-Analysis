@@ -1,5 +1,5 @@
-🎬 Netflix Data Analysis — NumPy, Pandas, Matplotlib
-This project explores and analyzes a Netflix dataset using powerful Python libraries such as NumPy, Pandas, and Matplotlib. The goal of the analysis is to understand content distribution, trends in release years, ratings, genres, and other key insights that shape Netflix's catalog.
+🎬 Netflix Data Analysis — Pandas, Matplotlib
+This project explores and analyzes a Netflix dataset using powerful Python libraries such as Pandas, and Matplotlib. The goal of the analysis is to understand content distribution, trends in release years, ratings and other key insights that shape Netflix's catalog.
 
 📌 Project Overview
 Performed exploratory data analysis (EDA) on Netflix titles.
@@ -28,7 +28,6 @@ These visuals help highlight key patterns in Netflix’s content library.
 
 🛠 Technologies Use
 Python
-NumPy
 Pandas
 Matplotlib
-Jupyter Notebook 
+Jupyter Notebook / PyCharm
